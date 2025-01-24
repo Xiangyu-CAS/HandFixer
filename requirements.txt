@@ -1,0 +1,8 @@
+mediapipe
+diffusers
+torchvision
+opencv-python
+streamlit
+gradio
+tqdm
+transformers
